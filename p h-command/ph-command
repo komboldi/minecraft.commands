@@ -1,0 +1,2 @@
+[p h [player]]
+//when a custom player send "p h [player]" the player teleport to [player]
