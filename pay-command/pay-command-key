@@ -1,0 +1,5 @@
+[pay [player][money]]
+[pay]=pay money from bank
+[player]=the ingamename from the player
+[money]=how much money  //[number]
+//bsp. /pay echteminefy 100$ than is the money (100$) of echteminefy his bank

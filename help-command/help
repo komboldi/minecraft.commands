@@ -1,0 +1,14 @@
+/help = when comment it come the list
+----------
+/warp = teleport to farmworld
+/p h [player] =teleport to [player]
+/pay [player] [money]=give Your money to [player]
+/spawn =teleport to spawn
+/setmiddle =setmiddle from [yourplot]
+/nether =teleport to [nether]
+/plot home 1 =teleport to 1.GS
+/plot home 2 =teleport to 2.GS
+/plot home [number] =teleport to [number]GS
+/setowner =give plot when write the comment
+/sethome [name] =setteleport for comment when write this
+/ban [player][days][comment] = ban the player for [days]
