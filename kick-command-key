@@ -1,0 +1,5 @@
+/?kick [player]
+A Count from [10] secounts
+?when yes kicking the player=/yes
+?when no kicking the player =/no
+?when more for kicking the player =/kick [player]

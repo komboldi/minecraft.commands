@@ -1,0 +1,5 @@
+/ban [player][days][comment]]
+/ban =can't come so [days] of the Server
+[player] =ingamename
+[days] =?how long ban the player
+[comment] =?why ban the player
